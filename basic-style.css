@@ -1,0 +1,26 @@
+
+body {
+	background-color: yellow;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+
+h2,h3 {
+	font-family: Times New Roman, Times, serif;
+}
+
+h1 {
+	font-size: 24px;
+	color: #980000;
+	font-family: 'Andika', sans-serif;
+
+}
+h2 {
+	font-size: 18px;
+	color: #980000;
+}
+h3 {
+	font-size: 16px;
+	color: #980000;
+}
+
